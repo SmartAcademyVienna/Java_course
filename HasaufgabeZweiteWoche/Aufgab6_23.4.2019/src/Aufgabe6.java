@@ -6,6 +6,7 @@ public class Aufgabe6 {
 
         int nummer2 = 1;
 
+        //Or while (true)
         while (counter > 0){
 
             nummer2 = nummer2 * counter ;
